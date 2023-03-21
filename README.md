@@ -1,6 +1,6 @@
 # Portafolio Adaptable (Responsive) con Bootstrap 5
 
-Link del resultado de @missfercho: https://missferchoarchive.netlify.app/
+Link del resultado de @missfercho: https://missfercho.github.io/archive/
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
